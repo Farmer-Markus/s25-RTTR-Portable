@@ -6,6 +6,6 @@ Return to the Roots official websites: <br />
 All portable Apps are based on [dwarfs](https://github.com/mhx/dwarfs), to compress their runners and use less disc space. <br />
 
 I want to make portable apps with all includet dependencies like: <br />
-[ATLauncher-Portable](https://github.com/Farmer-Markus/ATLauncher-Portable) <br />
-[Lutris-Portable](https://github.com/Farmer-Markus/Lutris-Portable) <br />
-[Mindustry-Portable](https://github.com/Farmer-Markus/Mindustry-Portable) <br />
+[ATLauncher Portable](https://github.com/Farmer-Markus/ATLauncher-Portable) <br />
+[Lutris Portable](https://github.com/Farmer-Markus/Lutris-Portable) <br />
+[Mindustry Portable](https://github.com/Farmer-Markus/Mindustry-Portable) <br />
