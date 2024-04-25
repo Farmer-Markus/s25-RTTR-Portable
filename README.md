@@ -1,4 +1,4 @@
-# s25-RTTR-Portable
+# s25 RTTR Portable
 Return to the Roots official websites: <br />
 [official github](https://github.com/Return-To-The-Roots/s25client) <br />
 [official website](https://www.siedler25.org/) <br />
